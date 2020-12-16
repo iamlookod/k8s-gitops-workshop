@@ -2,11 +2,10 @@
 
 ## Setup
 
-Login pulumi stack.
+Change directory first.
 
 ```bash
-pulumi login --local
-# enter passphrase
+cd eks
 ```
 
 Create a new pulumi stack.
